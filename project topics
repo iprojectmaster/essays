@@ -1,0 +1,43 @@
+DIRECTIONAL DRILLING HYDRAULICS OPTIMIZATION USING CONVENTIONAL AND NANOBASED DRILLING FLUIDS
+
+ 
+
+ABSTRACT
+
+During drilling operations, special attention must be given to wellbore hydraulics to ensure functional, safe, economic, and environmentally responsible delivery of the well. The Hydraulics system shares common purposes with the drilling fluid, it helps to control subsurface pressures, remove cuttings from the well, clean the bit, size the pump, increase the rate of penetration, and minimize surge and swab pressures. Hydraulics optimization is an attempt to maximize the pressure drop across the bit by minimizing the parasitic pressure losses. A properly designed hydraulic system will help to improve drilling efficiency and lower drilling time and cost.
+
+This thesis examines hydraulics optimization using conventional drilling fluids and nano-based drilling fluids. Nanofluids are specialized fluids obtained by careful combination of nanoparticles and a base fluid. The nanoparticles are particles with an average diameter of less than 100nm. They possess unique characteristics that differentiate them from microparticles, and make them adaptable to a wide range of applications. The impacts of rheological models and equivalent annular diameter definitions on annular pressure loss and ECD were examined for the conventional drilling fluids while aluminium oxide nanoparticles were used to examine the influence of nanofluids on the annular pressure gradient and ECD. A user-friendly computer program was written to facilitate repeated analyses using any combination of rheological model and equivalent annular diameter definitions for the conventional drilling fluids for all ranges of inclination using the Rudi Rubiandini’s cuttings transport model.
+
+The conclusions drawn are:
+
+1.      The Hydraulic Radius Concept, Slot Approximation, and Lamb’s Method give almost the same pressure gradients for various rheological models.
+
+2.      The Crittendon correlation overestimates the values of the annular pressure gradient and ECD for various rheological models. This phenomenon is compounded when the fluid is not in the laminar flow regime.
+
+3.      The increase in density and viscosity of the nanofluid compared to the base fluid leads to the need for a higher capacity pump to flow the system. However, using a low density and low viscosity base fluid, with lower density and concentration of nanoparticles would reduce the effect of increase in the density and viscosity of the mixture.
+
+Hole related problems associated with conventional drilling fluids can be eliminated by the use of nano-engineered fluids. Nanoparticles can be deplored in high pressure, high temperature (HPHT) locations. The user-friendly program can be used for a quick evaluation of the optimization process.
+
+CHAPTER ONE
+
+FORMULATION OF THE PROBLEM
+
+1.1 Introduction
+
+Hydraulics system plays an important role during rotary drilling operations. Proper design and maintenance of this system increases drilling efficiency (high rate of penetration) and lowers the overall drilling cost. The hydraulic system is the drilling fluid system in the wellbore when the fluid is in static or dynamic state. The dynamic state deals with the fluid movement, pipe movement, and cutting transport. Drilling is the art and science of making boreholes for hydrocarbon production, in a manner that is safe, economic, and environmentally responsible. An efficient hydraulics system is a prerequisite to the success of any drilling and completions operation. It affects mud circulation, hole-cleaning efficiency, cementing, rate of penetration (ROP), and hence total drilling time and cost. Rotary drilling hydraulics is concerned with proper utilization of the drilling fluid pump horsepower. It is affected by the drilling fluid properties and geometry (configuration) of the circulating system.
+
+Rotary drilling involves the circulation of formulated drilling fluids (called mud), to perform certain functions. The functions of the drilling fluid include:
+
+1.      To maintain well control by counteracting and suppressing the formation pressure
+
+2.      To clean the surface of the bit and transport cuttings to the surface
+
+3.      To lubricate and cool the drill bits.
+
+4.      To hold the cuttings in suspension when fluid circulation is stopped
+
+5.      To transmit hydraulic force from the surface through the drill string to the bottom hole assembly (BHA)
+
+6.      To enhance wellbore stability
+
+7.      To serve as a means of logging and formation evaluation
